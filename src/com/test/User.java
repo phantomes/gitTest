@@ -1,5 +1,10 @@
 package com.test;
 
+/**
+ *添加作者和版本信息
+ * @author phantomes
+ * @version 1.0
+ */
 public class User {
 	private Long id;
 	private String name;
